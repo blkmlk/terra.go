@@ -3,7 +3,7 @@ module github.com/terra-money/terra.go/v2
 go 1.17
 
 require (
-	github.com/cosmos/cosmos-sdk v0.44.1
+	github.com/cosmos/cosmos-sdk v0.44
 	github.com/cosmos/go-bip39 v1.0.0
 	github.com/stretchr/testify v1.7.0
 	github.com/terra-money/core v0.5.9
